@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fecb5175-83a1-4868-8a38-2b19b0a93083" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
-      <change type="MOVED" beforePath="C:\Users\Labs\Dropbox\Proacter\Platform\server.js" afterPath="$PROJECT_DIR$/2. server/server.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Platform.iws" />
@@ -251,7 +249,11 @@
       <created>1387618339451</created>
       <updated>1387618339451</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Testing 6">
+      <created>1387619171798</created>
+      <updated>1387619171798</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
