@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fecb5175-83a1-4868-8a38-2b19b0a93083" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Platform.iws" />
@@ -228,7 +227,11 @@
       <created>1387617265271</created>
       <updated>1387617265271</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Testing 4">
+      <created>1387617327057</created>
+      <updated>1387617327057</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -285,7 +288,8 @@
     <MESSAGE value="Testing" />
     <MESSAGE value="Testing 2" />
     <MESSAGE value="Testing 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing 3" />
+    <MESSAGE value="Testing 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
