@@ -4,7 +4,7 @@ var port = process.env.port || 1337;
 
 function start() {
     app.get('/', function(req, res) {
-        req.send("Hello Masse!");
+        res.send("Hello Masse!");
     })
 
     app.listen(port);
